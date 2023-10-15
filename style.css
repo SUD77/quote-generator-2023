@@ -74,8 +74,13 @@ button:active{
   box-shadow: 0 0.1rem rgba(255, 255, 255, 0.65);
 }
 
+.twitter-button{
+  background-color: #38a1f3;
+}
+
 .twitter-button:hover{
-  color: #38a1f3;
+  color: white;
+  background-color: blue;
 }
 
 .fa-twitter{
